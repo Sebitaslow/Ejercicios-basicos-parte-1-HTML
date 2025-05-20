@@ -1,0 +1,18 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera pagina</title>
+</head>
+<body>
+    <h1>Mi primera página Web</h1>
+    <p>Mi nombre es Sebastian Me gusta apreder la diversidad de las cosas y como estas nos cambian tanto a nosotros como a los demas</p>
+   <h2>Mis Sitios favoritos</h2>
+    <ul>
+        <li><a href="https://www.mercadolibre.com.co/">Mercado Libre</a></li>
+        <li><a href="https://www.instagram.com/">instagram</a></li>
+        <li><a href="https://x.com/?lang=es">X</a></li>
+    </ul>
+</body>
+</html>
+```
