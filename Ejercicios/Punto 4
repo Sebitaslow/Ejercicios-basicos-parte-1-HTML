@@ -1,0 +1,13 @@
+```html
+<!DOCTYPE html>
+<head>
+    <title>Mi primera pagina</title>
+</head>
+<body>
+    <!--Este es el titulo o el encabezado de la página web-->
+    <h1>Mi primera página Web</h1>
+    <!--Aquí Veremos una breve descripcion tratada como parrafo-->
+    <p>Mi nombre es Sebastian Me gusta apreder la diversidad de las cosas y como estas nos cambian tanto a nosotros como a los demas</p>
+</body>
+</html>
+```
