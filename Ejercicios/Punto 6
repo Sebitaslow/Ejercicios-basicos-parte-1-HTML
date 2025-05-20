@@ -1,0 +1,27 @@
+```html
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Mi Proyecto Final</h1>
+        <h2>Mis sitios favoritos</h2>
+        <ul>
+            <!--Aqui se agrega links para redirigir a una página web-->
+            <li><a href="https://www.youtube.com/">Youtube</a></li>
+            <li><a href="https://www.notion.so/">Notion</a></li>
+        </ul>
+        <h2>Multimedia</h2>
+        <!--Agrega video con su respectivo link-->
+        <video width="640" height="480" controls><source src="https://cdn.pixabay.com/video/2025/04/10/271161_large.mp4" >
+        <h2>Formulario</h2>
+        <!--Este es el formato donde veremos un pequeño formulario-->
+        <label for="Nombre">Nombre:</label>
+        <input type="text" name="Nombre: " id="Nombre_usuario">
+       <p></p>
+        <label for="Email">Email:</label>
+        <input type="email" name="Email: " id="Email_Usuario">
+        <p></p>
+        <!--Aqui se agrega un boton no tiene funcion solo es decoración-->
+    <button type="button" onclick="alert('Formulario realizado')">Enviar</button>
+    </body>
+</html>
+```
