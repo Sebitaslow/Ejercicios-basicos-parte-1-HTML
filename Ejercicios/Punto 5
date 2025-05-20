@@ -1,1 +1,17 @@
+```html
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Formulario de Contacto</h1>
+    
+        <label for="Nombre">Nombre:</label>
+        <input type="text" name="Nombre: " id="Nombre_usuario">
+       <p></p>
+        <label for="Email">Email:</label>
+        <input type="email" name="Email: " id="Email_Usuario">
+        <p></p>
+    <button type="button" onclick="alert('Formulario realizado')">Enviar</button>
+</body>
+</html>
 
+```
