@@ -1,0 +1,18 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página multimedia</title>
+</head>
+<body>
+    <h1>Pagina con multimedia</h1>
+    <h2>Imagen</h2>
+    <img src="https://concepto.de/wp-content/uploads/2014/08/universo-e1551279319307-800x400.jpg" alt="">
+   <h2>Video</h2>
+    <video width="640" height="480" controls><source src="https://cdn.pixabay.com/video/2018/01/31/14035-254146872_large.mp4" >
+    Tu navegador no soporta la etiqueta video
+    </video>
+    
+</body>
+</html>
+```
